@@ -1,0 +1,20 @@
+Change Component Footprint: Designator=Q2 Old Footprint=TO92A New Footprint=TO92
+Change Component Footprint: Designator=Q3 Old Footprint=TO92A New Footprint=TO92
+Change Component Footprint: Designator=Q7 Old Footprint=TO92A New Footprint=TO92
+Change Component Footprint: Designator=Q8 Old Footprint=TO92A New Footprint=TO92
+Change Component Footprint: Designator=Q9 Old Footprint=TO92A New Footprint=TO92
+Added Pin To Net: NetName=NetC5_1 Pin=Q2-1
+Added Pin To Net: NetName=NetC3_1 Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_3 Pin=Q2-3
+Added Pin To Net: NetName=NetC6_1 Pin=Q3-1
+Added Pin To Net: NetName=NetC4_1 Pin=Q3-2
+Added Pin To Net: NetName=NetQ3_3 Pin=Q3-3
+Added Pin To Net: NetName=NetC12_1 Pin=Q7-1
+Added Pin To Net: NetName=NetC10_1 Pin=Q7-2
+Added Pin To Net: NetName=NetQ7_3 Pin=Q7-3
+Added Pin To Net: NetName=NetC13_1 Pin=Q8-1
+Added Pin To Net: NetName=NetC11_1 Pin=Q8-2
+Added Pin To Net: NetName=NetQ8_3 Pin=Q8-3
+Added Pin To Net: NetName=NetC15_1 Pin=Q9-1
+Added Pin To Net: NetName=NetC14_1 Pin=Q9-2
+Added Pin To Net: NetName=NetQ9_3 Pin=Q9-3
